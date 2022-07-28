@@ -1,5 +1,5 @@
 .info {
-    font-size: 45px;
+    font-size: 40px;
 }
 
 .article {
@@ -36,6 +36,13 @@
     color: gold;
 }
 
+.accordion {
+    margin-top: 8%;
+}
+
+.accordion-item {
+    width: 700px;
+}
 
 
 
@@ -46,4 +53,10 @@
 
 
 
-@media only screen and (max-width: 575.98px) {}
+
+@media only screen and (max-width: 575.98px) {
+
+    .accordion-item {
+        width: 350px;
+    }
+}
