@@ -20,7 +20,7 @@
 }
 
 .register-btn {
-    padding-left: 20%;
+    padding-left: 70px;
 }
 
 .feedback {
@@ -44,6 +44,10 @@
     width: 700px;
 }
 
+.company {
+    margin-top: 8%;
+}
+
 
 
 
@@ -55,8 +59,21 @@
 
 
 @media only screen and (max-width: 575.98px) {
+    .register-info {
+        text-align: center;
+        padding-left: 10px;
+    }
+
+    .register-btn {
+        padding-left: 50px;
+    }
+
 
     .accordion-item {
         width: 350px;
+    }
+
+    .course-img {
+        width: 100%;
     }
 }
