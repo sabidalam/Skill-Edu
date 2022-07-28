@@ -1,3 +1,49 @@
 .info {
     font-size: 45px;
 }
+
+.article {
+    margin-top: 10%;
+}
+
+.students {
+    margin-top: 8%;
+}
+
+.register {
+    margin-top: 10%;
+    height: 250px;
+}
+
+.register-info {
+    padding-left: 10%;
+}
+
+.register-btn {
+    padding-left: 20%;
+}
+
+.feedback {
+    margin-top: 8%;
+}
+
+.comma-img {
+    width: 50px;
+    height: 40px;
+}
+
+.fa-star {
+    color: gold;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 575.98px) {}
