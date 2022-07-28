@@ -27,11 +27,6 @@
     margin-top: 8%;
 }
 
-.comma-img {
-    width: 50px;
-    height: 40px;
-}
-
 .fa-star {
     color: gold;
 }
@@ -49,16 +44,21 @@
 }
 
 
-
-
-
-
-
-
-
-
-
 @media only screen and (max-width: 575.98px) {
+    .banner-info {
+        padding-bottom: 0;
+    }
+
+    .info {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+
+    .line {
+        line-height: 20px;
+        margin-bottom: 10px;
+    }
+
     .register-info {
         text-align: center;
         padding-left: 10px;
@@ -67,7 +67,6 @@
     .register-btn {
         padding-left: 50px;
     }
-
 
     .accordion-item {
         width: 350px;
